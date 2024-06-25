@@ -87,7 +87,7 @@ export const movies : Movie[] = [
     genre_ids: [ 28, 80 ],
     id: 891699,
     original_language: 'en',
-    original_title: 'Silent Night',
+    original_title: 'Silent Night 2',
     overview: "A tormented father witnesses his young son die when caught in a gang's crossfire on Christmas Eve. While recovering from a wound that costs him his voice, he makes vengeance his life's mission and embarks on a punishing training regimen in order to avenge his son's death.",
     popularity: 945.22,
     poster_path: '/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg',
